@@ -131,7 +131,7 @@ export class ServerManager {
     }
 
     setAddress(address: string, port: number) {
-        this.#REST_ADDRESS = `http://${address}:${port}/olympus`
+        this.#REST_ADDRESS = `https://${address}/olympus`
         console.log(`Setting REST address to ${this.#REST_ADDRESS}`)
     }
 

@@ -1,12 +1,12 @@
 {
     "server": {
-        "address": "localhost",
-        "port": 3001
+        "address": "api.olympus.dcs.anrop.se",
+        "port": 5000
     },
     "authentication": {
-        "gameMasterPassword": "688787d8ff144c502c7f5cffaafe2cc588d86079f9de88304c26b0cb99ce91c6",
-        "blueCommanderPassword": "688787d8ff144c502c7f5cffaafe2cc588d86079f9de88304c26b0cb99ce91c6",
-        "redCommanderPassword": "688787d8ff144c502c7f5cffaafe2cc588d86079f9de88304c26b0cb99ce91c6"
+        "gameMasterPassword": "aba9796a63f9a96b21885a899240408c7783b91fccaabe57482918d71fc5d5bd",
+        "blueCommanderPassword": "16477688c0e00699c6cfa4497a3612d7e83c532062b64b250fed8908128ed548",
+        "redCommanderPassword": "b1f51a511f1da0cd348b8f8598db32e61cb963e5fc69e2b41485bf99590ed75a"
     },
     "client": {
         "port": 3000,
