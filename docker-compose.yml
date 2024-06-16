@@ -3,7 +3,7 @@ version: '3'
 services:
   client:
     build: client
-    image: anrop/dcs-olympus:1.0.3
+    image: anrop/dcs-olympus:1.0.3-kola
     ports:
       - 3000:3000
     volumes:
